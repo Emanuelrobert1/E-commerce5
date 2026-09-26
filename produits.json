@@ -1,0 +1,8 @@
+[
+{"id":1,"nom":"Smartphone Pro","prix":299,"categorie":"Électronique","description":"Smartphone moderne et rapide.","image":"assets/images/produit-1.svg"},
+{"id":2,"nom":"Chaussures Premium","prix":79,"categorie":"Mode","description":"Chaussures confortables et élégantes.","image":"assets/images/produit-2.svg"},
+{"id":3,"nom":"Casque Bluetooth","prix":49,"categorie":"Audio","description":"Casque sans fil avec son de qualité.","image":"assets/images/produit-3.svg"},
+{"id":4,"nom":"Sac à dos Premium","prix":59,"categorie":"Accessoires","description":"Sac moderne pour le quotidien.","image":"assets/images/produit-4.svg"},
+{"id":5,"nom":"Montre Élégante","prix":99,"categorie":"Accessoires","description":"Montre élégante au design moderne.","image":"assets/images/produit-5.svg"},
+{"id":6,"nom":"Lunettes Modernes","prix":39,"categorie":"Mode","description":"Lunettes modernes et élégantes.","image":"assets/images/produit-6.svg"}
+]
